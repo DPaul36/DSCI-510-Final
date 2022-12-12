@@ -215,10 +215,11 @@ def pitching_plot():
     ax2.scatter(months,CLES,s=CLESc,label = 'CLE')
     ax1.legend()
     ax2.legend()
-    
-    plt.xlabel('Month')
-    plt.ylabel('Spin Rate in rpm')
+    ax1.set_xlabel('Month')
+    ax2.set_xlabel('Month')
+
+    ax1.set_ylabel('Spin Rate in rpm')
+    ax2.set_ylabel('Spin Rate in rpm')
     return ax1,ax2
 
 
-pitching_plot()
