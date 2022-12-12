@@ -247,7 +247,7 @@ def month_statcast(data):
 
     '''
     statcast_data = {}
-    months = ['04','05','06','07','08','09','10','11']
+    months = ['4','5','6','7','8','9','10','11']
     for team in data:
         teams_data = {}
         index = np.arange(len(data[team]))
@@ -255,13 +255,22 @@ def month_statcast(data):
         for month in months:
             Month_data = {}
             for i in index:
-                if data[team]['game_date'][i][5:7] == month:
-                    if data[team]['player_name'][i] not in Month_data:
-                        Month_data[data[team]['player_name'][i]] = {data[team]['player_name'][i]:data[team].iloc[i]}
+                if data[team]['game_date'][i][0] != '1':
+                    if data[team]['game_date'][i][0] == month:
+                        if data[team]['pitch_type'][i] not in Month_data:
+                            Month_data[data[team]['pitch_type'][i]] = {data[team]['pitch_type'][i]:data[team].iloc[i]}
+                        else:
+                             Month_data[data[team]['pitch_type'][i]][len(Month_data[data[team]['pitch_type'][i]])] = data[team].iloc[i]
                     else:
-                         Month_data[data[team]['player_name'][i]][len(Month_data[data[team]['player_name'][i]])] = data[team].iloc[i]
+                        pass
                 else:
-                    pass
+                    if data[team]['game_date'][i][0:2] == month:
+                        if data[team]['pitch_type'][i] not in Month_data:
+                            Month_data[data[team]['pitch_type'][i]] = {data[team]['pitch_type'][i]:data[team].iloc[i]}
+                        else:
+                             Month_data[data[team]['pitch_type'][i]][len(Month_data[data[team]['pitch_type'][i]])] = data[team].iloc[i]
+                    else:
+                        pass
             teams_data[month] = Month_data
         statcast_data[team] = teams_data
     return statcast_data
@@ -291,13 +300,14 @@ def team_month_stat(team,month,data,stat):
     pa = 0
     if team not in data:
         return 0
-    for player in data[team][month]:
-        for at_bat in data[team][month][player]:
-            if data[team][month][player][at_bat][stat] == 0:
-                pass
-            else:
-                team_stat.append(data[team][month][player][at_bat][stat])
+    for pitch in data[team][month]:
+        for at_bat in data[team][month][pitch]:
+            if data[team][month][pitch][at_bat][stat] > 0:
+
+                team_stat.append(data[team][month][pitch][at_bat][stat])
                 pa += 1
+            else:
+                pass
     if pa == 0:
         pa +=1
     team_stat_avg = sum(team_stat)/pa
@@ -317,20 +327,21 @@ def team_month_pitch_stat(team,month,data,stat):
     index = 0
     if team not in data:
         return 0
-    for player in data[team][month]:
-        for at_bat in data[team][month][player]:
-            if data[team][month][player][at_bat][stat] == 0:
-                pass
-            else:
-                if data[team][month][player][at_bat]['pitch_type'] not in team_stat:
-                    team_stat[data[team][month][player][at_bat]['pitch_type']]= {data[team][month][player][at_bat]['pitch_type']:data[team][month][player][at_bat][stat]}
+    for pitch in data[team][month]:
+        for at_bat in data[team][month][pitch]:
+            if data[team][month][pitch][at_bat][stat] > 0:
+                if pitch not in team_stat:
+                    team_stat[pitch]= {pitch:data[team][month][pitch][at_bat][stat]}
                     pa += 1
                 else:
-                    team_stat[data[team][month][player][at_bat]['pitch_type']][index]=data[team][month][player][at_bat][stat]
+                    team_stat[pitch][index]=data[team][month][pitch][at_bat][stat]
                     index +=1
+            else:
+                pass
     pitch_averages = {}
     for pitch in team_stat:
         avg = sum(team_stat[pitch].values())/(len(team_stat[pitch]))
         pitch_averages[pitch] = (avg,len(team_stat[pitch]))
+    
     
     return pitch_averages
