@@ -7,8 +7,6 @@ Code for sorting data
 #Import functions and modules
 import pandas as pd
 import numpy as np
-from baseball_scraper import statcast, batting_stats_range,batting_stats_bref, pitching_stats_range
-import matplotlib.pyplot as plt
 
 
 def sort_data(data):
@@ -345,3 +343,44 @@ def team_month_pitch_stat(team,month,data,stat):
     
     
     return pitch_averages
+
+
+def team_pitch_stat(team,month,data,stat):
+    
+    if stat == 'BAbip':
+        team_stat = []
+        event = 0
+        if team not in data[month]:
+            return 0
+        for player_name in data[month][team]:
+
+            if data[month][team][player_name]['AB'] == 0:
+                pass
+            else:
+
+                team_stat.append(data[month][team][player_name][stat]*data[month][team][player_name]['AB'])
+                event += data[month][team][player_name]['AB']
+        average = sum(team_stat)/event
+        return average    
+    team_stat = []
+    event = 0
+    if team not in data[month]:
+        return 0
+    for player_name in data[month][team]:
+        
+        if data[month][team][player_name]['IP'] == 0:
+            pass
+        else:
+            
+            team_stat.append(data[month][team][player_name][stat]*data[month][team][player_name]['IP'])
+            event += data[month][team][player_name]['IP']
+    average = sum(team_stat)/event
+    
+    return average
+def month_pitch_stats(team,data,stat):
+    Months = ["Apr",'May','June','July','Aug','Sep','Oct']
+
+    stats= []
+    for month in Months:
+        stats.append(team_pitch_stat(team,month,data,stat))
+    return stats

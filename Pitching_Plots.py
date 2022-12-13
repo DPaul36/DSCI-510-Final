@@ -5,9 +5,7 @@ Created on Sun Dec 11 18:31:31 2022
 @author: David
 """
 import Code_Functions as cf
-import pandas as pd
-import numpy as np
-from baseball_scraper import statcast, batting_stats_range,batting_stats_bref, pitching_stats_range
+from baseball_scraper import pitching_stats_range
 import matplotlib.pyplot as plt
 
 
@@ -220,6 +218,125 @@ def pitching_plot():
 
     ax1.set_ylabel('Spin Rate in rpm')
     ax2.set_ylabel('Spin Rate in rpm')
+    
+    ax1.set_title('Fastball')
+    ax2.set_title('Slider')
     return ax1,ax2
 
+month_team_pitch_data = cf.month_data(pitching_stats_range)
 
+
+houston = cf.month_pitch_stats('Houston',month_team_pitch_data,'WHIP')
+yankees = cf.month_pitch_stats('New York Yankees',month_team_pitch_data,'WHIP')
+dodgers = cf.month_pitch_stats('Los Angeles Dodgers',month_team_pitch_data,'WHIP')
+mets = cf.month_pitch_stats('New York Mets',month_team_pitch_data,'WHIP')
+philly = cf.month_pitch_stats('Philadelphia',month_team_pitch_data,'WHIP')
+braves = cf.month_pitch_stats('Atlanta',month_team_pitch_data,'WHIP')
+padres = cf.month_pitch_stats('San Diego',month_team_pitch_data,'WHIP')
+guard = cf.month_pitch_stats('Cleveland',month_team_pitch_data,'WHIP')
+seattle = cf.month_pitch_stats('Seattle',month_team_pitch_data,'WHIP')
+tampa = cf.month_pitch_stats('Tampa Bay',month_team_pitch_data,'WHIP')
+cards = cf.month_pitch_stats('St. Louis',month_team_pitch_data,'WHIP')
+toronto = cf.month_pitch_stats('Toronto',month_team_pitch_data,'WHIP')
+
+houston1 = cf.month_pitch_stats('Houston',month_team_pitch_data,'ERA')
+yankees1 = cf.month_pitch_stats('New York Yankees',month_team_pitch_data,'ERA')
+dodgers1 = cf.month_pitch_stats('Los Angeles Dodgers',month_team_pitch_data,'ERA')
+mets1 = cf.month_pitch_stats('New York Mets',month_team_pitch_data,'ERA')
+philly1 = cf.month_pitch_stats('Philadelphia',month_team_pitch_data,'ERA')
+braves1 = cf.month_pitch_stats('Atlanta',month_team_pitch_data,'ERA')
+padres1 = cf.month_pitch_stats('San Diego',month_team_pitch_data,'ERA')
+guard1 = cf.month_pitch_stats('Cleveland',month_team_pitch_data,'ERA')
+seattle1 = cf.month_pitch_stats('Seattle',month_team_pitch_data,'ERA')
+tampa1 = cf.month_pitch_stats('Tampa Bay',month_team_pitch_data,'ERA')
+cards1 = cf.month_pitch_stats('St. Louis',month_team_pitch_data,'ERA')
+toronto1 = cf.month_pitch_stats('Toronto',month_team_pitch_data,'ERA')
+
+
+
+houston2 = cf.month_pitch_stats('Houston',month_team_pitch_data,'BAbip')
+yankees2 = cf.month_pitch_stats('New York Yankees',month_team_pitch_data,'BAbip')
+dodgers2 = cf.month_pitch_stats('Los Angeles Dodgers',month_team_pitch_data,'BAbip')
+mets2 = cf.month_pitch_stats('New York Mets',month_team_pitch_data,'BAbip')
+philly2 = cf.month_pitch_stats('Philadelphia',month_team_pitch_data,'BAbip')
+braves2 = cf.month_pitch_stats('Atlanta',month_team_pitch_data,'BAbip')
+padres2 = cf.month_pitch_stats('San Diego',month_team_pitch_data,'BAbip')
+guard2 = cf.month_pitch_stats('Cleveland',month_team_pitch_data,'BAbip')
+seattle2 = cf.month_pitch_stats('Seattle',month_team_pitch_data,'BAbip')
+tampa2 = cf.month_pitch_stats('Tampa Bay',month_team_pitch_data,'BAbip')
+cards2 = cf.month_pitch_stats('St. Louis',month_team_pitch_data,'BAbip')
+toronto2 = cf.month_pitch_stats('Toronto',month_team_pitch_data,'BAbip')
+
+
+houston3 = cf.month_pitch_stats('Houston',month_team_pitch_data,'SO9')
+yankees3 = cf.month_pitch_stats('New York Yankees',month_team_pitch_data,'SO9')
+dodgers3 = cf.month_pitch_stats('Los Angeles Dodgers',month_team_pitch_data,'SO9')
+mets3 = cf.month_pitch_stats('New York Mets',month_team_pitch_data,'SO9')
+philly3 = cf.month_pitch_stats('Philadelphia',month_team_pitch_data,'SO9')
+braves3 = cf.month_pitch_stats('Atlanta',month_team_pitch_data,'SO9')
+padres3 = cf.month_pitch_stats('San Diego',month_team_pitch_data,'SO9')
+guard3 = cf.month_pitch_stats('Cleveland',month_team_pitch_data,'SO9')
+seattle3 = cf.month_pitch_stats('Seattle',month_team_pitch_data,'SO9')
+tampa3 = cf.month_pitch_stats('Tampa Bay',month_team_pitch_data,'SO9')
+cards3 = cf.month_pitch_stats('St. Louis',month_team_pitch_data,'SO9')
+toronto3 = cf.month_pitch_stats('Toronto',month_team_pitch_data,'SO9')
+
+
+def final_4():
+    H = 8*8
+
+    N = 4*8
+    PH = 6*8
+    P = 4*8
+    
+    
+    fig, (ax1,ax2) = plt.subplots(1,2, figsize=(15,8))
+    fig, (ax3,ax4) = plt.subplots(1,2, figsize=(15,8))
+
+    ax1.scatter(months,houston,s=H,label = 'HOU')
+    ax1.scatter(months,yankees,s=N,label = 'NYY')
+    ax1.scatter(months,padres,s=P,label = 'SD')
+    ax1.scatter(months,philly,s=PH,label = 'PHI')
+
+    ax2.scatter(months,houston1,s=H,label = 'HOU')
+    ax2.scatter(months,yankees1,s=N,label = 'NYY')
+    ax2.scatter(months,padres1,s=P,label = 'SD')
+    ax2.scatter(months,philly1,s=PH,label = 'PHI')
+
+    ax3.scatter(months,houston2,s=H,label = 'HOU')
+    ax3.scatter(months,yankees2,s=N,label = 'NYY')
+    ax3.scatter(months,padres2,s=P,label = 'SD')
+    ax3.scatter(months,philly2,s=PH,label = 'PHI')
+    
+    ax4.scatter(months,houston3,s=H,label='HOU')
+    ax4.scatter(months,philly3,s=PH,label='PHI')
+    ax4.scatter(months,yankees3,s=N,label='NYY')
+    ax4.scatter(months,padres3,s=P,label='SD')
+
+    
+    
+    
+    
+    
+    
+    ax1.legend()
+    ax2.legend()
+    ax3.legend()
+    ax4.legend()
+    
+    ax1.set_xlabel('Month')
+    ax2.set_xlabel('Month')
+    ax3.set_xlabel('Month')
+    ax4.set_xlabel('Month')
+
+    ax1.set_ylabel('WHIP')
+    ax2.set_ylabel('ERA')
+    ax3.set_ylabel('BAbip')
+    ax4.set_ylabel('SO/9')
+
+    ax1.set_title('Walks + Hits / IP') 
+    ax2.set_title('Earned Run Average')
+    ax3.set_title('BA on Balls in Play')
+    ax4.set_title('Strike Outs per 9 IP')
+
+    return ax1,ax2,ax3,ax4
