@@ -8,7 +8,6 @@ import Code_Functions as cf
 from baseball_scraper import pitching_stats_range
 import matplotlib.pyplot as plt
 
-
 teams_list = ['HOU','SEA','ATL','NYY','NYM','LAD','SD','PHI','TB','STL','TOR','CLE']
 
 team_statcast = cf.teams_statcast(teams_list)
@@ -340,3 +339,13 @@ def final_4():
     ax4.set_title('Strike Outs per 9 IP')
 
     return ax1,ax2,ax3,ax4
+
+
+
+
+    
+
+
+
+
+
