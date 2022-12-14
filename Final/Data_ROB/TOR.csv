@@ -1,0 +1,635 @@
+﻿pitch_type,game_date,release_speed,player_name,bb_type,hit_distance_sc,launch_speed,launch_angle,effective_speed,release_spin_rate,estimated_ba_using_speedangle,estimated_woba_using_speedangle,launch_speed_angle
+FF,10/5/2022,94.8,"Moreno, Gabriel",ground_ball,8,78.9,-10,94.7,2036,0.117,0.128,2
+FF,10/5/2022,96.1,"Merrifield, Whit",ground_ball,10,92.8,-17,97.1,2293,0.146,0.139,2
+FC,10/5/2022,87.8,"Merrifield, Whit",ground_ball,54,72.3,3,87.7,2317,0.151,0.144,2
+FC,10/5/2022,86.6,"Hernández, Teoscar",line_drive,274,86.4,23,86.8,2216,0.28,0.261,3
+CH,10/5/2022,84.2,"Lopez, Otto",line_drive,145,72.9,13,84.2,2065,0.377,0.339,4
+SI,10/5/2022,97,"Lopez, Otto",line_drive,167,99.8,8,95.6,2262,0.671,0.622,4
+CH,10/5/2022,82.8,"Lopez, Otto",fly_ball,223,76.8,48,83,1326,0.077,0.077,3
+SL,10/5/2022,86.5,"Zimmer, Bradley",ground_ball,3,35.8,-48,85.9,2588,0.26,0.259,1
+KC,10/5/2022,79.5,"Zimmer, Bradley",line_drive,164,57.3,37,79.2,2336,0.363,0.327,1
+SL,10/3/2022,86,"Chapman, Matt",ground_ball,16,71.5,-5,84.5,2368,0.089,0.082,2
+CH,10/3/2022,88.9,"Kirk, Alejandro",line_drive,161,73,14,87.7,1824,0.483,0.435,4
+CH,10/3/2022,81.4,"Merrifield, Whit",ground_ball,14,86.1,-5,80.2,2018,0.126,0.113,2
+FF,10/2/2022,99.9,"Guerrero Jr., Vladimir",line_drive,280,81.7,25,99.4,2454,0.283,0.276,3
+SL,10/2/2022,86.6,"Merrifield, Whit",ground_ball,13,96.4,-10,86.9,2139,0.191,0.172,2
+CH,10/2/2022,91.2,"Bichette, Bo",ground_ball,2,84.9,-29,91.3,2035,0.043,0.039,2
+SL,10/2/2022,85.8,"Springer, George",ground_ball,7,66.6,-16,85.6,2327,0.037,0.033,2
+FF,10/2/2022,96.8,"Bradley Jr., Jackie",ground_ball,13,101.6,-11,96.1,2441,0.257,0.231,2
+SL,10/1/2022,84.7,"Zimmer, Bradley",ground_ball,6,87.2,-24,84.9,2327,0.089,0.084,2
+FF,10/1/2022,94.2,"Jansen, Danny",fly_ball,363,100.9,37,94.6,2262,0.323,0.639,5
+SL,10/1/2022,84.1,"Tapia, Raimel",ground_ball,26,104.2,-2,84.4,2336,0.377,0.339,4
+SI,10/1/2022,94.7,"Hernández, Teoscar",fly_ball,353,102.5,22,94.6,2031,0.571,0.8,6
+SI,10/1/2022,94.5,"Chapman, Matt",ground_ball,5,77.1,-26,94.2,1945,0.034,0.031,2
+SI,10/1/2022,94.8,"Lopez, Otto",ground_ball,35,100.5,-2,94.9,2117,0.351,0.326,2
+CU,9/30/2022,81.6,"Jansen, Danny",ground_ball,27,54.7,0,80.4,2351,0.117,0.105,1
+FF,9/30/2022,98.1,"Kirk, Alejandro",line_drive,153,105.9,6,98.6,2121,0.609,0.587,4
+SL,9/30/2022,86.8,"Guerrero Jr., Vladimir",ground_ball,2,69.8,-60,86.9,2006,0.251,0.226,2
+FF,9/30/2022,98.2,"Bichette, Bo",ground_ball,9,109.2,-10,98.7,2043,0.309,0.278,2
+SI,9/28/2022,97.1,"Guerrero Jr., Vladimir",ground_ball,5,101.9,-20,96.1,2574,0.183,0.175,2
+SI,9/28/2022,96.8,"Bichette, Bo",ground_ball,131,78.5,12,95.7,2499,0.48,0.432,4
+SI,9/28/2022,91.6,"Kirk, Alejandro",ground_ball,18,94.7,-5,90.1,2244,0.291,0.303,2
+CU,9/27/2022,79.1,"Biggio, Cavan",fly_ball,220,68.6,43,79.3,2718,0.357,0.35,3
+SL,9/27/2022,85.1,"Merrifield, Whit",line_drive,315,102,20,85.6,2505,0.483,0.627,5
+SI,9/27/2022,98.3,"Chapman, Matt",ground_ball,2,83.3,-49,98.6,2040,0.114,0.103,2
+SL,9/27/2022,81.9,"Springer, George",ground_ball,54,103.5,0,81.5,2660,0.469,0.441,4
+SI,9/26/2022,98.2,"Hernández, Teoscar",ground_ball,144,92.1,9,98.6,2308,0.617,0.572,4
+SL,9/26/2022,79.4,"Merrifield, Whit",ground_ball,35,90.7,-1,79.3,2434,0.271,0.256,2
+SI,9/26/2022,98.9,"Bichette, Bo",ground_ball,7,57.7,-17,99,2399,0.071,0.069,1
+SL,9/26/2022,87,"Guerrero Jr., Vladimir",line_drive,225,117.3,8,86.4,2955,0.78,0.779,6
+SI,9/26/2022,95.9,"Bichette, Bo",fly_ball,365,101.4,27,95.3,2336,0.62,1.108,6
+FF,9/25/2022,97.1,"Guerrero Jr., Vladimir",ground_ball,91,68.9,7,97.9,2212,0.18,0.162,2
+SL,9/25/2022,81.3,"Kirk, Alejandro",line_drive,153,74.1,14,81.5,2523,0.491,0.442,4
+SL,9/25/2022,81.3,"Guerrero Jr., Vladimir",ground_ball,19,112.5,-7,81.3,2410,0.397,0.357,2
+FF,9/25/2022,96.1,"Hernández, Teoscar",fly_ball,464,113.2,31,95.7,2236,0.951,1.975,6
+SL,9/25/2022,80.4,"Bichette, Bo",popup,19,79.8,84,80.5,2393,0.014,0.016,3
+SL,9/24/2022,81.5,"Merrifield, Whit",fly_ball,374,95.1,35,80.5,3043,0.091,0.15,3
+SL,9/24/2022,81.9,"Hernández, Teoscar",ground_ball,49,100.5,-1,81.8,2472,0.386,0.357,2
+SL,9/23/2022,83.2,"Kirk, Alejandro",ground_ball,34,85.2,0,83.4,2456,0.246,0.227,2
+SI,9/23/2022,97.9,"Hernández, Teoscar",ground_ball,6,88.8,-17,96.6,2270,0.111,0.107,2
+FC,9/22/2022,83.3,"Merrifield, Whit",fly_ball,411,101,33,83.8,2254,0.449,0.875,6
+FC,9/22/2022,85.2,"Chapman, Matt",ground_ball,4,63.2,-23,85.7,2325,0.043,0.039,2
+FC,9/22/2022,85,"Kirk, Alejandro",fly_ball,202,80.6,56,85.3,2199,0.046,0.051,3
+FF,9/21/2022,95.7,"Hernández, Teoscar",line_drive,153,105.1,8,94.5,2425,0.691,0.665,4
+FC,9/21/2022,92.3,"Springer, George",ground_ball,17,70,-7,93,2546,0.077,0.069,2
+SI,9/21/2022,101.1,"Jansen, Danny",line_drive,312,99.5,17,101.9,2013,0.451,0.482,4
+SI,9/21/2022,99.3,"Guerrero Jr., Vladimir",line_drive,429,110.6,21,99.5,2377,0.931,1.674,6
+FF,9/21/2022,95.7,"Bradley Jr., Jackie",popup,142,89.4,70,94.8,2006,0.006,0.005,3
+SL,9/21/2022,90.1,"Springer, George",ground_ball,3,58.1,-40,90,2427,0.131,0.118,1
+SL,9/21/2022,87.3,"Bichette, Bo",ground_ball,34,101.1,-1,86.4,2367,0.4,0.376,4
+CU,9/20/2022,86.5,"Springer, George",fly_ball,245,89.1,49,85.9,2506,0.009,0.008,3
+CH,9/20/2022,89.3,"Biggio, Cavan",ground_ball,22,93.2,-4,89.7,1367,0.243,0.229,2
+CH,9/20/2022,84,"Guerrero Jr., Vladimir",popup,173,102.8,61,85.2,2046,0.02,0.026,3
+FF,9/20/2022,97,"Tapia, Raimel",line_drive,234,97.6,13,97.3,2266,0.891,0.845,4
+FF,9/20/2022,96.8,"Hernández, Teoscar",line_drive,182,70.5,20,97.1,2007,0.874,0.817,4
+SL,9/20/2022,79.9,"Bradley Jr., Jackie",fly_ball,377,101.4,38,78.7,2045,0.297,0.618,5
+CH,9/20/2022,90.7,"Kirk, Alejandro",line_drive,223,102.7,10,90.7,1530,0.837,0.822,4
+SI,9/20/2022,92.3,"Espinal, Santiago",line_drive,296,99.2,15,90.6,2275,0.717,0.697,4
+SL,9/20/2022,80.5,"Kirk, Alejandro",line_drive,199,69.8,22,79.3,2324,0.926,0.885,4
+CH,9/20/2022,84.2,"Tapia, Raimel",line_drive,125,94.3,8,85,2196,0.537,0.483,4
+FS,9/18/2022,90.7,"Bichette, Bo",ground_ball,21,98.8,-4,90.8,1175,0.289,0.26,2
+SL,9/18/2022,90,"Springer, George",fly_ball,403,103.7,24,89.7,2387,0.823,1.487,6
+FC,9/17/2022,90.6,"Bichette, Bo",ground_ball,2,86,-36,91.5,2456,0.074,0.07,2
+SL,9/16/2022,92,"Guerrero Jr., Vladimir",line_drive,274,93.4,17,92.6,2248,0.657,0.674,4
+FF,9/16/2022,95.1,"Bradley Jr., Jackie",popup,28,88.7,80,94.8,2062,0.014,0.016,3
+SL,9/15/2022,81.9,"Springer, George",fly_ball,225,75.8,48,82.4,2806,0.086,0.077,3
+FF,9/15/2022,93.8,"Bradley Jr., Jackie",ground_ball,13,86.7,-12,94.7,2722,0.14,0.13,2
+SI,9/14/2022,91.7,"Tapia, Raimel",ground_ball,2,86.9,-40,91.2,1806,0.074,0.067,2
+CH,9/14/2022,82.1,"Chapman, Matt",ground_ball,11,94.4,-11,81.9,1769,0.157,0.141,2
+CH,9/14/2022,80.6,"Guerrero Jr., Vladimir",ground_ball,3,74.2,-28,81,1619,0.051,0.056,2
+FF,9/13/2022,95,"Chapman, Matt",ground_ball,149,107,6,95.4,2250,0.603,0.554,4
+SI,9/13/2022,96.5,"Hernández, Teoscar",ground_ball,10,64.2,-16,96.4,2219,0.04,0.036,2
+SI,9/13/2022,95.2,"Kirk, Alejandro",ground_ball,21,92.4,-7,95.1,2050,0.169,0.152,2
+SI,9/13/2022,95.8,"Bichette, Bo",ground_ball,7,106.2,-17,96.2,2108,0.214,0.193,2
+FF,9/13/2022,99,"Bichette, Bo",ground_ball,8,79.5,-19,99.3,2432,0.049,0.044,2
+FC,9/13/2022,94.4,"Springer, George",ground_ball,37,100.4,-2,94.7,2341,0.351,0.326,2
+CH,9/13/2022,83.3,"Chapman, Matt",fly_ball,284,95.3,47,81.9,2038,0.003,0.003,3
+CU,9/13/2022,83.8,"Springer, George",fly_ball,363,97.2,29,83.8,2297,0.309,0.53,5
+FF,9/13/2022,91.1,"Merrifield, Whit",ground_ball,11,92.4,-13,92.8,2155,0.137,0.123,2
+CH,9/13/2022,83,"Espinal, Santiago",fly_ball,377,96,26,81.1,2042,0.254,0.347,5
+FF,9/13/2022,93.2,"Hernández, Teoscar",line_drive,298,110.3,14,91.9,2138,0.763,0.842,6
+FF,9/13/2022,100.3,"Jansen, Danny",ground_ball,70,104.6,2,100.1,2572,0.503,0.472,4
+FF,9/12/2022,94,"Jansen, Danny",ground_ball,9,98.2,-12,95.5,2203,0.214,0.199,2
+SL,9/12/2022,80.2,"Bichette, Bo",fly_ball,394,99,31,80,2921,0.4,0.762,6
+CH,9/12/2022,90.7,"Springer, George",ground_ball,17,68,-9,90.6,2003,0.074,0.067,2
+SL,9/11/2022,87.9,"Bichette, Bo",line_drive,167,72.4,15,88.1,2374,0.543,0.489,4
+SI,9/11/2022,97.8,"Guerrero Jr., Vladimir",line_drive,296,112.8,12,96.9,2514,0.817,0.868,6
+FF,9/11/2022,93.4,"Espinal, Santiago",fly_ball,344,94,33,92.6,2447,0.08,0.133,3
+CH,9/11/2022,91.3,"Bradley Jr., Jackie",ground_ball,1,57.3,-72,89.6,2152,0.209,0.188,1
+SL,9/10/2022,86.3,"Springer, George",ground_ball,3,70.1,-31,86.5,2604,0.054,0.052,2
+SI,9/10/2022,97.9,"Jansen, Danny",line_drive,226,109.3,10,97.8,2362,0.871,0.883,5
+SI,9/10/2022,96.5,"Kirk, Alejandro",line_drive,305,103.7,14,95.6,2628,0.74,0.776,4
+SI,9/10/2022,95.7,"Guerrero Jr., Vladimir",ground_ball,3,96,-32,95,2486,0.12,0.123,2
+FF,9/9/2022,97.1,"Springer, George",line_drive,321,106.4,17,95.4,2634,0.551,0.639,5
+SL,9/9/2022,83.6,"Biggio, Cavan",fly_ball,333,98.8,45,82.9,2599,0.02,0.028,3
+CH,9/9/2022,88.3,"Springer, George",ground_ball,12,83.5,-9,89.6,2058,0.109,0.098,2
+SL,9/9/2022,83.5,"Jansen, Danny",line_drive,198,68.8,21,82.3,2654,0.84,0.771,4
+FF,9/9/2022,96.9,"Espinal, Santiago",fly_ball,353,98.1,42,93.6,2715,0.043,0.067,3
+FF,9/7/2022,92.6,"Merrifield, Whit",fly_ball,372,101.9,36,92.3,2216,0.454,0.934,6
+SI,9/7/2022,92,"Chapman, Matt",ground_ball,22,105.7,-6,92,2163,0.383,0.355,2
+SL,9/7/2022,83.3,"Kirk, Alejandro",popup,90,54.7,65,81.2,2445,0.003,0.003,1
+CH,9/7/2022,85.5,"Bradley Jr., Jackie",fly_ball,313,92.2,35,85,1326,0.046,0.064,3
+FF,9/7/2022,93.3,"Espinal, Santiago",ground_ball,29,94.6,-2,92.6,2177,0.311,0.296,2
+FF,9/6/2022,100.9,"Kirk, Alejandro",ground_ball,9,104.4,-10,101,2450,0.28,0.252,2
+FC,9/6/2022,90.2,"Hernández, Teoscar",ground_ball,15,105.6,-4,90.6,2499,0.389,0.35,2
+FF,9/6/2022,99.5,"Kirk, Alejandro",line_drive,282,104.9,14,99.4,2445,0.714,0.752,5
+SI,9/5/2022,89.7,"Springer, George",ground_ball,144,62.5,18,89.5,2314,0.409,0.368,2
+CH,9/5/2022,88.2,"Bradley Jr., Jackie",ground_ball,3,76.9,-44,87.7,2204,0.106,0.095,2
+SL,9/5/2022,85.1,"Biggio, Cavan",ground_ball,5,60.7,-27,85.5,2356,0.04,0.036,2
+SL,9/5/2022,87.7,"Bichette, Bo",line_drive,257,82.1,21,87.9,2611,0.726,0.702,4
+CH,9/5/2022,85.1,"Guerrero Jr., Vladimir",ground_ball,147,112.8,5,85.3,2136,0.691,0.661,4
+FF,9/5/2022,94.9,"Espinal, Santiago",ground_ball,37,69.8,0,94.6,2202,0.126,0.12,2
+CH,9/5/2022,85.1,"Springer, George",ground_ball,25,105.4,-3,85.3,2209,0.394,0.365,2
+FF,9/5/2022,93.7,"Bradley Jr., Jackie",ground_ball,71,103.6,2,93.2,2355,0.474,0.427,4
+FC,9/5/2022,92,"Springer, George",ground_ball,2,65.3,-35,92.6,2516,0.066,0.059,2
+SI,9/4/2022,95.1,"Chapman, Matt",line_drive,147,97.9,6,95.1,2407,0.6,0.568,4
+CU,9/4/2022,82.4,"Bichette, Bo",fly_ball,359,99.9,24,82.4,2353,0.497,0.745,6
+FC,9/4/2022,91.9,"Kirk, Alejandro",line_drive,248,86.4,19,92,2147,0.703,0.68,4
+SI,9/4/2022,95.6,"Hernández, Teoscar",ground_ball,23,99.6,-4,95.9,2055,0.326,0.309,2
+SI,9/4/2022,95.1,"Guerrero Jr., Vladimir",ground_ball,7,111,-14,95.5,2103,0.251,0.226,2
+SI,9/4/2022,94.7,"Chapman, Matt",ground_ball,7,103.4,-19,94.7,1994,0.2,0.188,2
+FC,9/3/2022,91.6,"Bichette, Bo",line_drive,202,108.7,10,92,2108,0.871,0.883,5
+CU,9/2/2022,78.6,"Springer, George",fly_ball,288,83.5,40,77.6,2479,0.026,0.033,3
+FF,9/2/2022,93,"Biggio, Cavan",fly_ball,254,96,54,92.1,2464,0.006,0.005,3
+SL,9/2/2022,80.5,"Bichette, Bo",fly_ball,405,106.7,36,82,2316,0.663,1.35,6
+FF,8/31/2022,96,"Springer, George",popup,56,71.6,76,95.8,2270,0.006,0.006,3
+SL,8/31/2022,82.9,"Gurriel Jr., Lourdes",fly_ball,395,100,34,82.8,2363,0.377,0.749,5
+CH,8/30/2022,88.5,"Bradley Jr., Jackie",ground_ball,22,94.2,-5,88.3,1949,0.257,0.254,2
+SL,8/29/2022,84,"Jansen, Danny",fly_ball,414,105.5,28,84.3,2515,0.909,1.865,6
+FF,8/29/2022,93.8,"Gurriel Jr., Lourdes",ground_ball,17,89.6,-9,93.6,2341,0.163,0.153,2
+FF,8/29/2022,93.6,"Tapia, Raimel",ground_ball,94,103.2,4,93.8,2170,0.549,0.507,4
+SI,8/29/2022,97.2,"Chapman, Matt",line_drive,207,74.5,19,96.6,2015,0.903,0.843,4
+CU,8/29/2022,75.1,"Jansen, Danny",ground_ball,119,99.9,7,74.2,2326,0.651,0.601,4
+SI,8/29/2022,91.1,"Espinal, Santiago",ground_ball,4,30.5,-38,91.5,1878,0.271,0.271,1
+CH,8/29/2022,84,"Bradley Jr., Jackie",line_drive,168,99.1,7,84.1,880,0.629,0.577,4
+CH,8/29/2022,85.1,"Bichette, Bo",ground_ball,7,90.1,-24,85.6,817,0.097,0.098,2
+FF,8/29/2022,94.1,"Espinal, Santiago",popup,126,81.9,71,93.8,2320,0.006,0.005,3
+FF,8/28/2022,93.1,"Kirk, Alejandro",fly_ball,344,93.4,29,93.6,2212,0.114,0.165,3
+FF,8/28/2022,93.1,"Gurriel Jr., Lourdes",line_drive,282,98.5,17,92.6,2189,0.466,0.486,4
+FF,8/28/2022,91.9,"Guerrero Jr., Vladimir",ground_ball,10,91,-15,91.8,2133,0.16,0.168,2
+FF,8/28/2022,97.6,"Bichette, Bo",ground_ball,40,93.9,-2,96,2417,0.297,0.28,2
+FF,8/28/2022,92.3,"Springer, George",fly_ball,306,105.3,51,92.5,2173,0.034,0.06,3
+FC,8/28/2022,89.9,"Biggio, Cavan",line_drive,117,94.8,7,89.8,2185,0.517,0.466,4
+SI,8/28/2022,91.5,"Hernández, Teoscar",ground_ball,6,106.1,-20,91.5,2090,0.186,0.167,2
+SL,8/27/2022,85.7,"Tapia, Raimel",fly_ball,292,91.7,43,86,2531,0,0,3
+SL,8/26/2022,81.9,"Espinal, Santiago",fly_ball,307,83.7,30,80.7,2282,0.063,0.075,3
+FF,8/26/2022,95.3,"Merrifield, Whit",popup,92,75.7,73,93.6,2408,0.006,0.005,3
+FF,8/26/2022,96.8,"Bichette, Bo",line_drive,198,101.3,9,94.4,2605,0.726,0.678,4
+FF,8/26/2022,96.8,"Tapia, Raimel",line_drive,263,79.8,29,94.7,2503,0.146,0.143,3
+FF,8/25/2022,97.2,"Gurriel Jr., Lourdes",ground_ball,96,50.3,17,96.9,2261,0.22,0.198,1
+SI,8/25/2022,93.5,"Gurriel Jr., Lourdes",line_drive,267,89.6,19,94.3,2185,0.526,0.52,4
+FF,8/25/2022,97.5,"Guerrero Jr., Vladimir",ground_ball,2,74.3,-45,97.4,2291,0.129,0.116,2
+SI,8/25/2022,93.3,"Guerrero Jr., Vladimir",ground_ball,5,94,-22,92.9,2250,0.1,0.09,2
+KC,8/25/2022,84.4,"Biggio, Cavan",fly_ball,344,96.9,26,84.4,2114,0.331,0.483,5
+SL,8/25/2022,83.6,"Springer, George",ground_ball,21,89.9,-2,84,2732,0.24,0.226,2
+FF,8/25/2022,94.1,"Chapman, Matt",fly_ball,321,85.4,33,95.1,2325,0.023,0.027,3
+SI,8/25/2022,94.2,"Jansen, Danny",ground_ball,7,104.5,-11,94.4,2201,0.263,0.237,2
+SI,8/24/2022,94.1,"Kirk, Alejandro",fly_ball,271,84.7,26,95.7,2296,0.137,0.147,3
+FF,8/24/2022,96.1,"Kirk, Alejandro",popup,184,61,41,96.7,2394,0.383,0.345,3
+FF,8/24/2022,96.7,"Gurriel Jr., Lourdes",ground_ball,26,101.4,-5,97.4,2362,0.274,0.247,2
+SL,8/24/2022,88.3,"Guerrero Jr., Vladimir",ground_ball,17,95.6,-7,89.7,2438,0.237,0.224,2
+SI,8/24/2022,97.2,"Springer, George",fly_ball,339,94.6,30,97.8,2378,0.151,0.246,5
+FS,8/23/2022,92.5,"Springer, George",ground_ball,24,99.1,-4,93,1524,0.289,0.26,2
+FF,8/23/2022,96.4,"Bradley Jr., Jackie",line_drive,245,94.5,16,96.3,2309,0.666,0.675,4
+FF,8/23/2022,95.6,"Chapman, Matt",fly_ball,266,97.8,52,95.2,2305,0.006,0.005,3
+SI,8/23/2022,96.7,"Gurriel Jr., Lourdes",ground_ball,6,98.7,-16,97.1,2423,0.143,0.129,2
+CH,8/21/2022,87.8,"Bradley Jr., Jackie",ground_ball,81,101.2,4,88.5,1980,0.586,0.562,4
+CH,8/21/2022,88.1,"Tapia, Raimel",line_drive,123,60.1,16,88.4,1765,0.311,0.28,2
+CH,8/21/2022,90.1,"Gurriel Jr., Lourdes",ground_ball,2,94.7,-39,89.6,2243,0.083,0.075,2
+SI,8/21/2022,99.7,"Chapman, Matt",ground_ball,9,81.9,-14,100.6,2330,0.103,0.094,2
+SI,8/21/2022,96.9,"Guerrero Jr., Vladimir",ground_ball,92,97.1,3,97.1,2010,0.506,0.493,4
+CH,8/21/2022,87.7,"Springer, George",line_drive,256,111.6,11,87.5,2281,0.846,0.874,5
+SL,8/20/2022,80,"Kirk, Alejandro",fly_ball,300,99.5,43,79.6,2362,0.069,0.127,3
+SI,8/19/2022,98.5,"Hernández, Teoscar",popup,127,88.4,67,99.2,2277,0.009,0.01,3
+SL,8/19/2022,81.6,"Gurriel Jr., Lourdes",line_drive,363,94,25,82.7,2467,0.169,0.206,3
+CH,8/19/2022,82.1,"Jansen, Danny",fly_ball,284,81.3,35,82.7,1889,0.029,0.031,3
+FC,8/18/2022,86.6,"Bichette, Bo",line_drive,200,84.8,14,86.8,2661,0.877,0.831,4
+SL,8/18/2022,89.5,"Chapman, Matt",ground_ball,1,60.4,-69,89.7,2252,0.234,0.211,2
+CH,8/18/2022,87.8,"Hernández, Teoscar",line_drive,332,111.6,19,88.1,2035,0.846,1.344,6
+SL,8/18/2022,89.5,"Kirk, Alejandro",line_drive,338,98.6,23,89.7,2257,0.4,0.566,5
+SL,8/18/2022,77.1,"Guerrero Jr., Vladimir",ground_ball,46,92.2,1,76.8,2794,0.349,0.321,2
+FC,8/18/2022,88.3,"Springer, George",line_drive,163,78.4,12,88.8,2746,0.434,0.391,4
+FC,8/18/2022,87.2,"Merrifield, Whit",popup,129,88.3,69,87.6,2591,0.006,0.005,3
+SI,8/18/2022,98.6,"Guerrero Jr., Vladimir",ground_ball,21,92.9,-7,99.4,2126,0.214,0.203,2
+SL,8/17/2022,84.1,"Hernández, Teoscar",line_drive,334,94.7,23,83.3,2644,0.18,0.228,3
+FF,8/17/2022,94.6,"Kirk, Alejandro",line_drive,338,98.1,19,93.7,2328,0.34,0.394,4
+CH,8/17/2022,84.6,"Bichette, Bo",ground_ball,130,110.7,6,84.4,1251,0.714,0.686,4
+SL,8/17/2022,85.5,"Guerrero Jr., Vladimir",ground_ball,3,101.8,-35,84.9,2487,0.097,0.087,2
+SI,8/17/2022,97.7,"Espinal, Santiago",line_drive,342,100.4,18,96.9,2192,0.411,0.489,4
+FF,8/17/2022,98.9,"Springer, George",line_drive,183,72.4,17,98.5,2170,0.697,0.627,4
+SI,8/15/2022,94.7,"Hernández, Teoscar",ground_ball,76,54.9,9,95.2,1829,0.154,0.139,1
+FS,8/15/2022,88.5,"Guerrero Jr., Vladimir",ground_ball,12,85,-13,88.3,1146,0.109,0.098,2
+SL,8/15/2022,80.7,"Gurriel Jr., Lourdes",fly_ball,328,91.6,35,80.2,2633,0.046,0.064,3
+FF,8/15/2022,100.4,"Jansen, Danny",popup,96,72.5,73,99.9,2424,0,0,3
+SL,8/14/2022,86.5,"Guerrero Jr., Vladimir",ground_ball,2,91.7,-39,87.5,2635,0.077,0.069,2
+FF,8/14/2022,94.1,"Gurriel Jr., Lourdes",ground_ball,18,100.1,-5,94.7,2329,0.28,0.252,2
+SL,8/14/2022,85.9,"Biggio, Cavan",fly_ball,229,80.3,51,86.4,2585,0.049,0.053,3
+FF,8/13/2022,94.7,"Espinal, Santiago",ground_ball,154,65,18,94.7,2243,0.503,0.453,2
+SL,8/12/2022,84.8,"Merrifield, Whit",fly_ball,270,95.7,50,83.6,2338,0,0,3
+FS,8/12/2022,88.2,"Guerrero Jr., Vladimir",ground_ball,18,81.7,-3,88.5,1688,0.177,0.177,2
+SI,8/12/2022,93.3,"Zimmer, Bradley",line_drive,365,104.9,20,93.3,2135,0.643,0.919,6
+FF,8/9/2022,93.9,"Bichette, Bo",popup,115,92.9,70,93.6,2247,0.017,0.019,3
+FF,8/9/2022,94.6,"Chapman, Matt",ground_ball,64,97.6,1,94.3,2180,0.406,0.365,4
+FF,8/9/2022,100.9,"Guerrero Jr., Vladimir",line_drive,174,77.8,13,101.2,2391,0.517,0.465,4
+SL,8/9/2022,83.4,"Guerrero Jr., Vladimir",line_drive,292,89.1,20,82.9,2502,0.469,0.479,4
+FF,8/8/2022,100.2,"Bichette, Bo",ground_ball,79,83.3,4,100.6,2265,0.283,0.255,2
+SI,8/8/2022,93,"Chapman, Matt",ground_ball,169,108.6,8,93.3,1964,0.751,0.727,4
+SL,8/8/2022,86.2,"Kirk, Alejandro",line_drive,277,86.4,20,86.9,2452,0.551,0.534,4
+FC,8/8/2022,87.9,"Jansen, Danny",fly_ball,309,93.7,45,88.3,2551,0.006,0.007,3
+FF,8/8/2022,95.5,"Tapia, Raimel",ground_ball,57,103.9,1,95.8,2134,0.466,0.42,4
+FF,8/8/2022,99.4,"Merrifield, Whit",ground_ball,22,95,-6,99.8,2388,0.24,0.219,2
+CU,8/7/2022,80.1,"Bichette, Bo",fly_ball,315,87.8,34,78.3,2823,0.02,0.021,3
+FF,8/7/2022,90.3,"Hernández, Teoscar",popup,141,95.3,66,88.6,2221,0.02,0.025,3
+FF,8/7/2022,94.5,"Jansen, Danny",ground_ball,13,81.9,-8,94.1,2433,0.111,0.1,2
+SL,8/7/2022,81.7,"Biggio, Cavan",fly_ball,254,89.4,46,81.8,2348,0.011,0.017,3
+FF,8/7/2022,92.1,"Espinal, Santiago",fly_ball,323,91.8,39,92.1,2356,0.029,0.036,3
+FF,8/7/2022,92.1,"Merrifield, Whit",fly_ball,194,89.8,59,92.3,2321,0.009,0.009,3
+CU,8/7/2022,74,"Chapman, Matt",line_drive,177,67.9,22,73.8,2567,0.857,0.795,4
+SL,8/6/2022,87.3,"Hernández, Teoscar",ground_ball,3,85.1,-26,86.2,2871,0.049,0.044,2
+FF,8/6/2022,100.3,"Tapia, Raimel",ground_ball,20,85.7,-5,99.6,2159,0.126,0.113,2
+CU,8/6/2022,85.7,"Bichette, Bo",ground_ball,7,97.6,-18,85.2,2616,0.117,0.105,2
+SI,8/5/2022,98.4,"Biggio, Cavan",fly_ball,220,78.2,54,98.7,1897,0.069,0.075,3
+SI,8/5/2022,97.6,"Tapia, Raimel",line_drive,238,75.5,24,98.3,2098,0.794,0.767,4
+SI,8/5/2022,98.1,"Jansen, Danny",ground_ball,111,96.5,4,98.9,2093,0.494,0.481,4
+CU,8/5/2022,85.7,"Gurriel Jr., Lourdes",ground_ball,91,101.1,4,86.1,2611,0.586,0.562,4
+FS,8/5/2022,97,"Guerrero Jr., Vladimir",ground_ball,20,112.2,-8,97.5,1648,0.366,0.329,2
+SI,8/5/2022,97.9,"Chapman, Matt",fly_ball,187,66.5,46,98.3,1977,0.289,0.297,3
+SL,8/5/2022,89.5,"Gurriel Jr., Lourdes",line_drive,193,81.4,14,89.8,2375,0.7,0.638,4
+KC,8/4/2022,82.5,"Gurriel Jr., Lourdes",fly_ball,208,66.8,40,82.9,2347,0.511,0.489,4
+FF,8/4/2022,98.2,"Merrifield, Whit",ground_ball,13,101,-9,99.2,2577,0.263,0.237,2
+SI,8/4/2022,91.9,"Hernández, Teoscar",ground_ball,11,65.7,-12,92.6,2353,0.063,0.057,2
+FF,8/4/2022,98.7,"Gurriel Jr., Lourdes",line_drive,232,103.4,11,99.7,2456,0.894,0.874,4
+KC,8/4/2022,85.7,"Guerrero Jr., Vladimir",line_drive,397,115.4,17,85.5,2342,0.786,1.124,6
+KC,8/4/2022,84.9,"Springer, George",ground_ball,31,82.7,-3,84.9,2388,0.171,0.162,2
+KC,8/4/2022,84.8,"Kirk, Alejandro",fly_ball,330,92.7,30,84.9,2865,0.109,0.176,3
+FF,8/4/2022,91.8,"Biggio, Cavan",popup,182,70.3,56,92.5,2356,0.074,0.077,3
+SL,8/3/2022,87,"Kirk, Alejandro",ground_ball,41,86.3,0,87.2,2539,0.266,0.254,2
+FC,8/2/2022,92.1,"Espinal, Santiago",ground_ball,145,67.7,13,92.4,2412,0.34,0.306,2
+SI,8/2/2022,95.4,"Jansen, Danny",fly_ball,239,69.8,37,96.3,2129,0.583,0.586,3
+FC,8/2/2022,92.4,"Tapia, Raimel",line_drive,206,75.2,20,93.2,2566,0.949,0.892,4
+SI,7/31/2022,94.5,"Gurriel Jr., Lourdes",fly_ball,315,92.3,36,95.9,2177,0.043,0.058,3
+SI,7/30/2022,96.2,"Bichette, Bo",ground_ball,29,98.9,-3,95.7,2381,0.32,0.289,2
+SL,7/29/2022,90.9,"Hernández, Teoscar",ground_ball,17,71.4,-9,91.3,2457,0.08,0.078,2
+SL,7/28/2022,84.5,"Bichette, Bo",ground_ball,36,102.5,-2,85.6,2400,0.36,0.328,4
+SI,7/28/2022,96.8,"Springer, George",fly_ball,339,91.6,34,96.6,2162,0.051,0.08,3
+CU,7/28/2022,86.9,"Jansen, Danny",fly_ball,330,98.6,43,87,2270,0.043,0.069,3
+SI,7/28/2022,96.7,"Espinal, Santiago",ground_ball,1,38,-68,96.7,2205,0.206,0.185,1
+SL,7/28/2022,89,"Hernández, Teoscar",ground_ball,5,69.3,-21,88.5,2314,0.046,0.042,2
+SI,7/26/2022,98.2,"Espinal, Santiago",line_drive,188,81.9,11,98.5,2042,0.52,0.479,4
+SI,7/26/2022,98.3,"Gurriel Jr., Lourdes",ground_ball,33,68.5,-1,98.6,2095,0.134,0.141,2
+SI,7/26/2022,89,"Biggio, Cavan",ground_ball,4,91.4,-28,87.6,1927,0.077,0.072,2
+FF,7/24/2022,96.3,"Chapman, Matt",popup,17,74.7,84,96.1,2142,0.006,0.005,3
+FF,7/24/2022,95.3,"Hernández, Teoscar",line_drive,284,105,14,95.3,2073,0.714,0.752,5
+SL,7/24/2022,86.8,"Gurriel Jr., Lourdes",popup,48,66.5,80,86.9,2369,0.006,0.005,3
+SI,7/23/2022,97,"Gurriel Jr., Lourdes",ground_ball,54,86.9,1,98.1,2287,0.32,0.326,2
+SL,7/23/2022,86.5,"Hernández, Teoscar",ground_ball,5,85.8,-27,88.1,2482,0.049,0.044,2
+SI,7/23/2022,96.8,"Bichette, Bo",ground_ball,6,104,-22,97.9,2283,0.171,0.156,2
+EP,7/22/2022,41.1,"Jansen, Danny",popup,126,71.3,64,39.4,891,0.003,0.003,3
+EP,7/22/2022,47.1,"Espinal, Santiago",ground_ball,32,89.9,-5,45.5,1057,0.151,0.136,2
+SL,7/22/2022,81.4,"Espinal, Santiago",popup,188,71.4,52,80.8,2982,0.14,0.158,3
+FA,7/22/2022,81.9,"Chapman, Matt",line_drive,161,79.1,11,79.4,1777,0.423,0.381,4
+EP,7/22/2022,48.6,"Gurriel Jr., Lourdes",line_drive,315,97,20,46.6,1135,0.277,0.317,4
+FA,7/22/2022,79.3,"Zimmer, Bradley",line_drive,326,106.6,21,77.2,1766,0.823,1.353,6
+FF,7/22/2022,97.2,"Chapman, Matt",popup,45,82.8,85,96.9,2380,0.017,0.02,3
+CH,7/17/2022,81.6,"Espinal, Santiago",fly_ball,280,82.2,38,81.8,1815,0.02,0.024,3
+SL,7/17/2022,82.6,"Kirk, Alejandro",fly_ball,357,96.3,35,83.1,2361,0.12,0.22,3
+SL,7/16/2022,83.2,"Hernández, Teoscar",ground_ball,4,102.7,-22,82.6,2625,0.18,0.177,2
+FF,7/16/2022,94.6,"Chapman, Matt",line_drive,300,92.2,18,95.1,2133,0.574,0.587,4
+SL,7/16/2022,82.9,"Bichette, Bo",ground_ball,54,102.7,0,81.8,2604,0.469,0.441,4
+FF,7/16/2022,95,"Tapia, Raimel",ground_ball,31,97.8,-2,94.3,2251,0.34,0.326,2
+SI,7/16/2022,93.1,"Guerrero Jr., Vladimir",line_drive,388,111.2,14,92.1,2198,0.774,0.857,6
+FF,7/15/2022,99.4,"Springer, George",ground_ball,19,63.8,-8,100.6,2454,0.08,0.072,2
+FF,7/15/2022,97.6,"Tapia, Raimel",line_drive,393,105.2,20,98,2294,0.643,0.919,6
+FF,7/14/2022,98.7,"Springer, George",fly_ball,278,78,33,98.3,2347,0.111,0.1,3
+SL,7/14/2022,89.1,"Hernández, Teoscar",ground_ball,28,79.5,-2,89.1,2279,0.169,0.164,2
+CU,7/14/2022,78.8,"Biggio, Cavan",ground_ball,9,85.4,-12,78.8,2642,0.146,0.149,2
+FF,7/13/2022,97.8,"Hernández, Teoscar",fly_ball,365,104.2,37,97.5,2172,0.497,0.989,6
+SI,7/13/2022,92.6,"Guerrero Jr., Vladimir",ground_ball,14,92.2,-11,90.8,2334,0.16,0.153,2
+FC,7/12/2022,94.5,"Kirk, Alejandro",ground_ball,13,109.2,-8,95.1,2258,0.386,0.371,2
+FF,7/12/2022,94.6,"Espinal, Santiago",line_drive,124,94.7,5,94.6,2345,0.477,0.461,4
+FF,7/9/2022,95.1,"Chapman, Matt",ground_ball,13,103.1,-9,93.8,1800,0.3,0.284,2
+SL,7/9/2022,88.6,"Hernández, Teoscar",ground_ball,8,65.2,-11,88.6,2258,0.08,0.083,2
+SI,7/9/2022,95.6,"Kirk, Alejandro",ground_ball,37,88.7,-3,94,2007,0.197,0.177,2
+SL,7/8/2022,84.8,"Kirk, Alejandro",fly_ball,187,92.8,60,85.2,2516,0.003,0.003,3
+SI,7/8/2022,96.1,"Springer, George",fly_ball,376,100.1,29,96.1,2288,0.506,0.921,6
+FF,7/8/2022,94.6,"Springer, George",ground_ball,81,87.5,5,94.7,2627,0.409,0.392,4
+SL,7/8/2022,88.7,"Espinal, Santiago",ground_ball,3,95.4,-28,89.2,2381,0.083,0.075,2
+SL,7/8/2022,87.4,"Gurriel Jr., Lourdes",ground_ball,28,97.4,-4,87.1,2259,0.3,0.282,2
+SI,7/8/2022,95.9,"Chapman, Matt",line_drive,182,102.8,10,96.7,2171,0.837,0.822,4
+SL,7/8/2022,87,"Gurriel Jr., Lourdes",fly_ball,204,90.7,58,87.2,2394,0.006,0.005,3
+FC,7/7/2022,86.4,"Espinal, Santiago",line_drive,245,99.2,13,86.8,2002,0.891,0.862,4
+SL,7/7/2022,89.1,"Espinal, Santiago",fly_ball,333,88.3,31,88.6,2305,0.046,0.058,3
+FF,7/7/2022,95.9,"Tapia, Raimel",ground_ball,10,109.8,-12,94.7,2019,0.269,0.242,2
+SL,7/7/2022,90.5,"Moreno, Gabriel",ground_ball,2,75.6,-35,90.1,2341,0.06,0.054,2
+SI,7/7/2022,95.9,"Chapman, Matt",fly_ball,279,87.3,41,94.3,2002,0.011,0.014,3
+SL,7/7/2022,80.5,"Bichette, Bo",fly_ball,282,83.3,38,79.8,2676,0.011,0.01,3
+FF,7/6/2022,91.1,"Espinal, Santiago",line_drive,166,62.3,28,90.1,2380,0.666,0.599,4
+FF,7/6/2022,91.3,"Springer, George",popup,169,80.7,62,90.6,2344,0.017,0.016,3
+SL,7/5/2022,82.8,"Espinal, Santiago",ground_ball,5,76.9,-21,83,2483,0.031,0.028,2
+SI,7/4/2022,89.3,"Springer, George",fly_ball,371,103.6,37,89,1859,0.497,0.989,6
+FF,7/4/2022,96,"Hernández, Teoscar",ground_ball,1,59.9,-64,94.4,2082,0.257,0.239,2
+FF,7/4/2022,95.6,"Kirk, Alejandro",fly_ball,193,88.6,62,93.8,2001,0.003,0.003,3
+SL,7/4/2022,87.5,"Guerrero Jr., Vladimir",fly_ball,327,94,34,86,2227,0.086,0.149,3
+SI,7/3/2022,94.2,"Chapman, Matt",fly_ball,362,98.1,30,93.6,2334,0.349,0.621,6
+SI,7/3/2022,96,"Tapia, Raimel",ground_ball,69,108.6,3,95.4,,0.574,0.525,4
+FF,7/3/2022,94,"Hernández, Teoscar",popup,119,97.4,69,94.1,2246,0.023,0.028,3
+SI,7/3/2022,97,"Guerrero Jr., Vladimir",ground_ball,98,85.6,4,97.9,2355,0.403,0.413,4
+SL,7/3/2022,86.6,"Bichette, Bo",ground_ball,116,106.2,5,87.8,2608,0.563,0.513,4
+SI,7/3/2022,91.5,"Bichette, Bo",line_drive,328,110.6,14,91.5,,0.774,0.857,6
+FC,7/2/2022,86,"Guerrero Jr., Vladimir",popup,111,83.4,71,86.6,2210,0.009,0.009,3
+CH,7/2/2022,78.5,"Zimmer, Bradley",fly_ball,402,104.8,30,77.7,1439,0.794,1.616,6
+FF,7/2/2022,99.8,"Gurriel Jr., Lourdes",ground_ball,33,101.2,-4,98.5,2411,0.291,0.262,2
+SI,7/2/2022,87.3,"Bichette, Bo",ground_ball,4,79.7,-21,86.7,2170,0.04,0.038,2
+SL,7/2/2022,89.7,"Guerrero Jr., Vladimir",popup,52,79.6,77,88.8,2633,0.014,0.017,3
+SI,7/2/2022,86.9,"Espinal, Santiago",fly_ball,253,78.9,41,86.1,2193,0.023,0.021,3
+SL,7/2/2022,76.6,"Chapman, Matt",popup,38,76.5,84,75.6,2436,0.011,0.012,3
+SI,7/2/2022,100.1,"Bichette, Bo",ground_ball,18,107.1,-7,99.5,2324,0.4,0.389,2
+FF,7/2/2022,90.9,"Tapia, Raimel",ground_ball,7,91.4,-21,90.7,2268,0.111,0.113,2
+SL,7/2/2022,78.3,"Hernández, Teoscar",line_drive,133,99.9,8,77.5,2326,0.671,0.622,4
+FF,7/2/2022,99.8,"Biggio, Cavan",fly_ball,367,97.9,26,98.1,2500,0.406,0.604,6
+SL,7/2/2022,80.8,"Chapman, Matt",ground_ball,117,110.2,4,80,2162,0.634,0.592,4
+FA,7/1/2022,64.7,"Guerrero Jr., Vladimir",ground_ball,14,59.8,-7,63.9,1584,0.106,0.107,2
+FA,7/1/2022,66.7,"Collins, Zack",fly_ball,272,83.9,48,65.2,1326,0.009,0.01,3
+FA,7/1/2022,65.1,"Zimmer, Bradley",fly_ball,404,102.9,34,63.6,1409,0.571,1.151,6
+CH,6/30/2022,77.8,"Springer, George",ground_ball,68,100,3,78.2,1805,0.471,0.424,4
+FC,6/30/2022,82.4,"Espinal, Santiago",fly_ball,357,93.8,34,82.8,2074,0.086,0.149,3
+CH,6/30/2022,78.3,"Chapman, Matt",popup,154,90.6,65,77.9,1875,0.009,0.008,3
+SI,6/30/2022,96.8,"Espinal, Santiago",fly_ball,304,85.8,28,95.4,2480,0.086,0.105,3
+SL,6/30/2022,87.8,"Gurriel Jr., Lourdes",fly_ball,357,98.9,36,86.6,2905,0.251,0.509,5
+CU,6/30/2022,84.8,"Bichette, Bo",fly_ball,354,99.4,26,83.4,2907,0.463,0.718,6
+FF,6/29/2022,95,"Springer, George",popup,200,67.6,47,94.4,2383,0.229,0.222,3
+SI,6/29/2022,93.3,"Biggio, Cavan",line_drive,267,103.4,18,93.1,2341,0.449,0.537,5
+FF,6/29/2022,95.1,"Espinal, Santiago",line_drive,201,102.5,10,94.3,2397,0.837,0.822,4
+FF,6/29/2022,94.7,"Chapman, Matt",line_drive,242,105.1,14,93.7,2331,0.714,0.752,5
+CH,6/29/2022,88.3,"Moreno, Gabriel",fly_ball,244,95.4,54,88,2065,0.006,0.005,3
+SI,6/29/2022,94.1,"Kirk, Alejandro",fly_ball,371,100.9,31,93.6,2222,0.56,1.081,6
+FF,6/29/2022,96.6,"Tapia, Raimel",line_drive,300,90.2,21,96.8,2345,0.311,0.318,3
+SL,6/29/2022,83.4,"Bichette, Bo",line_drive,126,86.3,7,83.9,2626,0.423,0.381,4
+SI,6/29/2022,94.5,"Springer, George",ground_ball,2,79.7,-28,94.6,2262,0.057,0.063,2
+SL,6/28/2022,81.8,"Gurriel Jr., Lourdes",ground_ball,72,106,2,81.8,2688,0.494,0.449,4
+SL,6/28/2022,89.4,"Guerrero Jr., Vladimir",ground_ball,9,100.4,-20,89.4,2185,0.137,0.123,2
+FF,6/28/2022,95.7,"Bichette, Bo",ground_ball,13,98.5,-11,96,2021,0.246,0.236,2
+FF,6/27/2022,97.1,"Chapman, Matt",ground_ball,91,107.5,4,96,2169,0.603,0.572,4
+FF,6/26/2022,85.2,"Kirk, Alejandro",ground_ball,30,104.1,-3,86.7,2164,0.351,0.316,2
+SI,6/25/2022,96.7,"Moreno, Gabriel",ground_ball,4,103.7,-26,97.3,1718,0.123,0.111,2
+SI,6/25/2022,98.2,"Gurriel Jr., Lourdes",ground_ball,163,101,7,98.9,2025,0.68,0.64,4
+SL,6/24/2022,82.4,"Moreno, Gabriel",fly_ball,321,86.9,33,82.3,3011,0.029,0.04,3
+CH,6/24/2022,83.7,"Guerrero Jr., Vladimir",line_drive,315,107.7,13,83.5,1646,0.846,0.915,5
+CU,6/24/2022,78.4,"Kirk, Alejandro",line_drive,369,109.3,19,78.8,2552,0.794,1.184,6
+FF,6/22/2022,91.7,"Hernández, Teoscar",fly_ball,421,108.4,28,91.2,2267,0.98,2.035,6
+SL,6/22/2022,84.9,"Kirk, Alejandro",fly_ball,289,91.9,34,84.9,2376,0.051,0.08,3
+CU,6/21/2022,88.4,"Bichette, Bo",fly_ball,198,70.1,50,87.6,2478,0.143,0.133,3
+FF,6/21/2022,93,"Espinal, Santiago",fly_ball,344,91.6,32,93.6,2423,0.083,0.152,3
+SL,6/21/2022,85.7,"Moreno, Gabriel",line_drive,282,88.9,17,87,2622,0.814,0.774,4
+SL,6/21/2022,86.8,"Bichette, Bo",ground_ball,3,92.1,-34,87.5,2713,0.1,0.095,2
+FF,6/21/2022,96.4,"Biggio, Cavan",fly_ball,188,60.8,32,97,2443,0.617,0.555,4
+FF,6/21/2022,93.9,"Kirk, Alejandro",line_drive,271,86.1,22,94.4,2437,0.354,0.337,3
+FF,6/21/2022,95.2,"Tapia, Raimel",ground_ball,2,42.1,-55,95.8,2346,0.226,0.205,1
+SL,6/21/2022,86.3,"Guerrero Jr., Vladimir",ground_ball,5,93.2,-24,86.9,2637,0.086,0.077,2
+SL,6/21/2022,87.9,"Bichette, Bo",ground_ball,3,88.7,-32,88.8,2456,0.086,0.086,2
+FF,6/21/2022,97.8,"Gurriel Jr., Lourdes",ground_ball,1,65.8,-68,99.3,2403,0.229,0.206,2
+FF,6/21/2022,94.4,"Biggio, Cavan",,31,21.6,35,94.8,2480,0.174,0.157,1
+FF,6/21/2022,94.3,"Tapia, Raimel",ground_ball,28,88.8,-6,95.2,2404,0.154,0.147,2
+FF,6/21/2022,97.4,"Kirk, Alejandro",fly_ball,255,77.4,43,96.9,2194,0.089,0.096,3
+SL,6/21/2022,88.4,"Guerrero Jr., Vladimir",line_drive,271,100.2,12,88.8,2304,0.917,0.904,4
+FF,6/20/2022,98.2,"Springer, George",ground_ball,12,102.8,-9,98.7,2319,0.3,0.284,2
+SI,6/20/2022,98.2,"Espinal, Santiago",ground_ball,130,90,7,98.3,2222,0.491,0.462,4
+SI,6/20/2022,97.3,"Biggio, Cavan",fly_ball,392,103,28,97.3,2128,0.757,1.496,6
+CH,6/20/2022,92,"Tapia, Raimel",line_drive,304,99.5,19,92.4,1691,0.369,0.436,5
+FF,6/19/2022,96.2,"Kirk, Alejandro",line_drive,276,83.1,25,96.1,2262,0.237,0.222,3
+CH,6/19/2022,88.5,"Hernández, Teoscar",fly_ball,413,107.4,26,87.2,2256,0.963,1.957,6
+CH,6/19/2022,83.6,"Gurriel Jr., Lourdes",fly_ball,381,100,30,83.4,1951,0.503,0.935,6
+CH,6/19/2022,88.4,"Guerrero Jr., Vladimir",ground_ball,4,74.1,-31,86.9,2267,0.051,0.046,2
+FF,6/18/2022,95.5,"Biggio, Cavan",fly_ball,304,94,47,94.2,2354,0.003,0.004,3
+SL,6/18/2022,81,"Espinal, Santiago",line_drive,136,72.6,11,79.8,2803,0.28,0.252,2
+SI,6/18/2022,97,"Kirk, Alejandro",ground_ball,6,96.8,-20,95.7,2139,0.114,0.103,2
+SI,6/17/2022,93.5,"Kirk, Alejandro",ground_ball,18,103.9,-5,93.3,1759,0.357,0.328,2
+SI,6/17/2022,93.4,"Espinal, Santiago",ground_ball,74,96.7,2,93.3,1633,0.454,0.428,4
+SI,6/17/2022,94.6,"Moreno, Gabriel",ground_ball,4,109.2,-24,94.5,1786,0.163,0.147,2
+SL,6/17/2022,84.3,"Chapman, Matt",ground_ball,1,53.3,-57,83.9,2777,0.229,0.208,1
+SI,6/17/2022,94.1,"Gurriel Jr., Lourdes",ground_ball,8,78.3,-15,93.5,1794,0.066,0.059,2
+SI,6/17/2022,98.1,"Hernández, Teoscar",ground_ball,82,103.6,4,97.8,2102,0.543,0.502,4
+FF,6/16/2022,95.1,"Biggio, Cavan",ground_ball,21,98.8,-2,94.4,2311,0.351,0.335,2
+FC,6/16/2022,91.7,"Hernández, Teoscar",ground_ball,3,65.8,-31,91.7,2532,0.046,0.041,2
+FF,6/16/2022,94.7,"Moreno, Gabriel",ground_ball,4,105.6,-14,94.5,2273,0.229,0.206,2
+FF,6/16/2022,95,"Gurriel Jr., Lourdes",fly_ball,300,87.5,35,94.5,2240,0.009,0.008,3
+FC,6/16/2022,89.1,"Kirk, Alejandro",ground_ball,14,106,-9,88.9,2368,0.337,0.315,2
+FC,6/16/2022,89.5,"Guerrero Jr., Vladimir",ground_ball,9,100.3,-17,89,2372,0.149,0.134,2
+SL,6/15/2022,81.2,"Gurriel Jr., Lourdes",popup,134,77.6,63,80.9,2397,0.02,0.023,3
+SI,6/15/2022,92.7,"Chapman, Matt",fly_ball,311,85.6,31,92.6,1875,0.04,0.045,3
+SI,6/15/2022,93.8,"Espinal, Santiago",fly_ball,272,93.4,48,93.1,1966,0,0,3
+FF,6/15/2022,99.2,"Guerrero Jr., Vladimir",line_drive,206,115.7,8,99.1,2285,0.78,0.772,6
+SI,6/14/2022,93.2,"Hernández, Teoscar",ground_ball,85,111.8,3,94.3,1874,0.623,0.586,4
+SL,6/14/2022,85.5,"Moreno, Gabriel",ground_ball,60,91.9,3,84.6,2901,0.386,0.364,4
+SL,6/14/2022,84.6,"Chapman, Matt",fly_ball,396,107.2,35,83.2,2695,0.711,1.462,6
+SI,6/14/2022,98.7,"Springer, George",line_drive,150,71.9,14,98.9,2006,0.466,0.419,4
+SL,6/14/2022,86.7,"Kirk, Alejandro",ground_ball,2,70.3,-45,87.1,2497,0.163,0.152,2
+CU,6/13/2022,84.5,"Bichette, Bo",popup,76,78.6,77,83.9,2355,0.011,0.012,3
+FF,6/13/2022,95.5,"Biggio, Cavan",fly_ball,185,88.3,63,95.1,2390,0,0,3
+SL,6/12/2022,86,"Moreno, Gabriel",ground_ball,10,85,-15,87.4,2329,0.12,0.12,2
+FF,6/12/2022,95.8,"Gurriel Jr., Lourdes",ground_ball,52,89.2,0,97.7,2452,0.249,0.224,2
+FF,6/12/2022,95.7,"Espinal, Santiago",fly_ball,250,80.4,37,96.6,2581,0.034,0.035,3
+FC,6/12/2022,88.2,"Hernández, Teoscar",fly_ball,262,95,53,90,2321,0.006,0.005,3
+CU,6/12/2022,84.6,"Bichette, Bo",ground_ball,38,86.4,0,85.4,2273,0.266,0.254,2
+FF,6/12/2022,94.7,"Bichette, Bo",line_drive,308,91.4,25,95.1,2547,0.151,0.19,3
+FF,6/11/2022,98.6,"Bichette, Bo",line_drive,321,99.4,21,99.4,2386,0.323,0.406,5
+FF,6/11/2022,99.6,"Springer, George",ground_ball,132,106.5,8,100.7,2376,0.689,0.664,4
+SL,6/11/2022,86.7,"Bichette, Bo",line_drive,205,105.4,7,87.8,2255,0.606,0.548,4
+SI,6/11/2022,96.6,"Springer, George",ground_ball,13,36.4,-6,97.5,2088,0.237,0.256,1
+FF,6/10/2022,95.3,"Zimmer, Bradley",fly_ball,220,86,52,96.2,2460,0.02,0.026,3
+FF,6/10/2022,94.6,"Biggio, Cavan",ground_ball,5,102.3,-16,94.1,2053,0.217,0.205,2
+FF,6/10/2022,94.9,"Gurriel Jr., Lourdes",fly_ball,231,84.5,47,94.3,2171,0,0,3
+SL,6/8/2022,84.5,"Espinal, Santiago",popup,157,66.6,58,85.8,2345,0.026,0.023,3
+SL,6/8/2022,83.9,"Guerrero Jr., Vladimir",ground_ball,2,78.6,-43,85.1,2547,0.1,0.09,2
+SL,6/8/2022,83.9,"Bichette, Bo",line_drive,209,108.9,10,85.4,2433,0.871,0.883,5
+FF,6/8/2022,93,"Springer, George",ground_ball,23,77.1,-2,94.5,2290,0.123,0.115,2
+SI,6/8/2022,92.7,"Espinal, Santiago",ground_ball,6,92.7,-16,93.3,2468,0.174,0.176,2
+CU,6/8/2022,77,"Biggio, Cavan",ground_ball,1,75.4,-48,77.7,2465,0.183,0.186,2
+SL,6/8/2022,81.7,"Guerrero Jr., Vladimir",fly_ball,363,101.9,40,82.3,2647,0.251,0.509,5
+SL,6/8/2022,81.3,"Bichette, Bo",fly_ball,286,87.8,42,81.8,2595,0.006,0.005,3
+SL,6/7/2022,87.1,"Espinal, Santiago",line_drive,211,86.9,14,87.4,2500,0.931,0.872,4
+FF,6/7/2022,95.3,"Hernández, Teoscar",fly_ball,378,104.9,24,95.4,2210,0.869,1.63,6
+CH,6/7/2022,87.4,"Tapia, Raimel",ground_ball,6,92.8,-25,87.2,1542,0.071,0.064,2
+FF,6/7/2022,95.6,"Chapman, Matt",popup,180,81.5,58,96.1,2176,0.04,0.047,3
+FF,6/7/2022,98.6,"Guerrero Jr., Vladimir",ground_ball,6,107.1,-28,99.4,2405,0.114,0.103,2
+CH,6/7/2022,87.9,"Espinal, Santiago",ground_ball,10,98.3,-11,87.6,1579,0.22,0.2,2
+SI,6/7/2022,96.2,"Tapia, Raimel",line_drive,354,102.6,19,95.8,2505,0.466,0.583,5
+SI,6/7/2022,96.7,"Chapman, Matt",line_drive,168,109,6,96.7,2478,0.669,0.628,4
+SL,6/6/2022,87.4,"Chapman, Matt",fly_ball,217,83.9,54,87.6,2325,0.023,0.025,3
+SL,6/6/2022,88.2,"Espinal, Santiago",line_drive,213,76.2,17,88.6,2155,0.84,0.789,4
+SL,6/6/2022,83.2,"Espinal, Santiago",ground_ball,22,93,-4,82.9,2816,0.243,0.229,2
+SI,6/6/2022,93.6,"Hernández, Teoscar",line_drive,214,103.4,12,93.3,2248,0.917,0.914,4
+SI,6/6/2022,97.5,"Biggio, Cavan",fly_ball,375,96.1,31,98.2,2133,0.209,0.391,5
+SL,6/6/2022,88.1,"Springer, George",ground_ball,6,90.6,-15,88.4,2345,0.16,0.168,2
+SI,6/6/2022,94.2,"Springer, George",ground_ball,3,87.3,-35,93.7,2106,0.071,0.064,2
+KC,6/5/2022,83.6,"Jansen, Danny",ground_ball,26,83.3,-3,84,2483,0.171,0.162,2
+SI,6/5/2022,92.5,"Espinal, Santiago",fly_ball,379,101.2,25,93,2532,0.56,0.884,6
+SI,6/5/2022,93.5,"Chapman, Matt",line_drive,244,83.1,19,93.4,2451,0.823,0.788,4
+SI,6/5/2022,84.5,"Jansen, Danny",ground_ball,11,64.9,-11,84.8,1985,0.08,0.083,2
+FF,6/5/2022,86.7,"Gurriel Jr., Lourdes",line_drive,342,105.4,16,87.2,2139,0.571,0.654,5
+CH,6/5/2022,84.8,"Bichette, Bo",ground_ball,37,87.7,0,85.1,1623,0.24,0.216,2
+CH,6/5/2022,83.9,"Springer, George",fly_ball,197,66.1,29,84.1,1800,0.889,0.842,4
+SI,6/4/2022,95,"Springer, George",fly_ball,292,78.5,34,93.1,2139,0.089,0.08,3
+CH,6/4/2022,88.6,"Tapia, Raimel",ground_ball,7,78.4,-13,88.5,1639,0.086,0.084,2
+SL,6/4/2022,87.1,"Gurriel Jr., Lourdes",ground_ball,18,98.3,-6,85.5,2554,0.28,0.268,2
+CH,6/4/2022,89.5,"Biggio, Cavan",ground_ball,5,94.3,-20,89.3,1675,0.106,0.095,2
+FF,6/4/2022,92.1,"Gurriel Jr., Lourdes",line_drive,162,86.5,10,91.9,2156,0.469,0.422,4
+FF,6/4/2022,92.5,"Kirk, Alejandro",fly_ball,379,99.4,33,92.2,2159,0.32,0.624,5
+SI,6/3/2022,92.3,"Springer, George",ground_ball,120,88.8,7,92.2,2550,0.469,0.434,4
+CU,6/2/2022,81.3,"Biggio, Cavan",line_drive,307,96.8,17,81.2,2597,0.52,0.562,4
+SL,6/2/2022,87.2,"Guerrero Jr., Vladimir",ground_ball,18,99.7,-6,87.1,2426,0.28,0.252,2
+FF,6/2/2022,94,"Espinal, Santiago",line_drive,153,90,9,93.3,2312,0.554,0.502,4
+SI,6/2/2022,93.6,"Espinal, Santiago",ground_ball,122,97.7,6,93.3,2230,0.6,0.568,4
+FF,6/2/2022,93.5,"Bichette, Bo",line_drive,340,102.3,20,92.5,2020,0.483,0.627,5
+SI,6/2/2022,94.1,"Gurriel Jr., Lourdes",ground_ball,21,102,-4,94.3,2085,0.329,0.31,2
+CU,6/1/2022,86.7,"Jansen, Danny",ground_ball,21,50.6,-2,85.7,2411,0.134,0.127,1
+FF,6/1/2022,94.2,"Kirk, Alejandro",ground_ball,21,99.7,-7,93.2,1983,0.271,0.251,2
+FF,6/1/2022,94.5,"Guerrero Jr., Vladimir",fly_ball,414,111,19,93.6,2057,0.837,1.313,6
+CU,6/1/2022,86.6,"Chapman, Matt",popup,188,79.9,57,85.6,2221,0.054,0.062,3
+SI,5/31/2022,93.7,"Jansen, Danny",ground_ball,1,74.1,-61,93.5,2219,0.266,0.25,2
+SI,5/31/2022,94.3,"Chapman, Matt",line_drive,299,82.7,26,94.3,1974,0.191,0.2,3
+FC,5/31/2022,84.8,"Gurriel Jr., Lourdes",line_drive,147,91.8,11,85.2,2352,0.777,0.744,4
+CU,5/29/2022,81.8,"Chapman, Matt",ground_ball,2,35.8,-35,80.7,2095,0.243,0.235,1
+FF,5/29/2022,92.9,"Espinal, Santiago",fly_ball,374,98.3,30,92.8,2465,0.349,0.621,6
+SI,5/29/2022,93.6,"Springer, George",ground_ball,75,80.8,5,93.7,2095,0.297,0.276,2
+FF,5/29/2022,92.4,"Springer, George",popup,223,94,57,92.1,2354,0.009,0.01,3
+FF,5/29/2022,94.8,"Gurriel Jr., Lourdes",ground_ball,21,82.7,-7,95.4,2190,0.126,0.121,2
+CH,5/29/2022,87.4,"Chapman, Matt",ground_ball,9,101.9,-14,87.2,1684,0.234,0.216,2
+CH,5/29/2022,84.2,"Tapia, Raimel",line_drive,263,93.8,16,84.2,1247,0.737,0.756,4
+CH,5/28/2022,84.8,"Biggio, Cavan",fly_ball,315,102.1,23,83.8,1859,0.651,1.012,6
+SI,5/28/2022,91.9,"Chapman, Matt",ground_ball,3,100.4,-36,90.9,2186,0.1,0.09,2
+CH,5/28/2022,85.2,"Gurriel Jr., Lourdes",fly_ball,235,84.2,50,83.9,,0.02,0.027,3
+FC,5/28/2022,85.7,"Tapia, Raimel",line_drive,207,101.4,9,84.8,2201,0.726,0.678,4
+FC,5/28/2022,89.8,"Jansen, Danny",fly_ball,383,99.9,28,89.8,2464,0.571,1.053,6
+SI,5/28/2022,92.8,"Chapman, Matt",line_drive,273,82.9,22,92.2,2128,0.566,0.559,4
+SL,5/28/2022,81.2,"Hernández, Teoscar",ground_ball,3,65.6,-29,81,2185,0.049,0.049,2
+FF,5/28/2022,91.8,"Guerrero Jr., Vladimir",ground_ball,3,70,-39,91.5,,0.103,0.093,2
+KC,5/28/2022,80.9,"Espinal, Santiago",line_drive,218,95.5,10,80.7,1973,0.703,0.661,4
+SI,5/28/2022,93.6,"Kirk, Alejandro",line_drive,256,91.9,15,94.4,2131,0.914,0.91,4
+FF,5/27/2022,92.4,"Espinal, Santiago",fly_ball,253,84.9,47,92.5,,0,0,3
+SI,5/27/2022,94.7,"Springer, George",ground_ball,46,90,1,93.8,,0.271,0.244,2
+SI,5/27/2022,92.8,"Chapman, Matt",ground_ball,84,106.5,3,91.3,2359,0.54,0.508,4
+SI,5/27/2022,94.5,"Gurriel Jr., Lourdes",line_drive,203,92.7,13,93.9,,0.931,0.918,4
+CH,5/27/2022,88.8,"Zimmer, Bradley",ground_ball,7,16.6,-4,88.5,,0.266,0.272,1
+SI,5/27/2022,92.3,"Gurriel Jr., Lourdes",line_drive,204,103.8,13,91,2457,0.84,0.865,4
+SI,5/26/2022,91.9,"Espinal, Santiago",fly_ball,345,94.7,34,91.6,2168,0.086,0.144,3
+SL,5/26/2022,84.8,"Springer, George",ground_ball,23,71,-1,84.6,2203,0.097,0.087,2
+SI,5/24/2022,94.4,"Guerrero Jr., Vladimir",ground_ball,7,108.2,-16,94.2,2392,0.217,0.195,2
+SI,5/24/2022,98.5,"Jansen, Danny",popup,20,69.8,83,99,1969,0.006,0.005,3
+SI,5/24/2022,100.3,"Chapman, Matt",ground_ball,10,101.1,-10,100.4,2016,0.254,0.229,2
+SI,5/24/2022,100,"Kirk, Alejandro",fly_ball,323,91.3,32,101,1993,0.054,0.084,3
+SI,5/23/2022,93.3,"Gurriel Jr., Lourdes",fly_ball,318,96.2,24,93.6,2223,0.211,0.262,5
+CU,5/23/2022,79,"Springer, George",fly_ball,195,68,47,79.2,2619,0.229,0.222,3
+SL,5/23/2022,85.6,"Guerrero Jr., Vladimir",ground_ball,6,108.7,-21,86.6,2333,0.183,0.165,2
+CU,5/23/2022,76.4,"Hernández, Teoscar",ground_ball,117,106.8,6,75.6,2490,0.603,0.554,4
+SI,5/23/2022,96.8,"Bichette, Bo",fly_ball,239,72.6,33,95.9,2143,0.48,0.484,3
+FF,5/23/2022,95.5,"Espinal, Santiago",fly_ball,311,87.4,33,95,2261,0.029,0.04,3
+SL,5/21/2022,83.7,"Bichette, Bo",fly_ball,415,107.6,27,82.5,2672,0.98,2.02,6
+SI,5/21/2022,93.9,"Springer, George",line_drive,319,102.7,16,92.7,2092,0.531,0.564,5
+FF,5/21/2022,93.1,"Espinal, Santiago",fly_ball,268,75.8,32,92.7,2426,0.263,0.254,3
+FF,5/20/2022,96.2,"Guerrero Jr., Vladimir",ground_ball,41,97.5,-2,95.8,2159,0.34,0.326,2
+SL,5/20/2022,85.1,"Bichette, Bo",line_drive,291,82.2,26,84.9,2709,0.229,0.235,3
+SI,5/18/2022,95,"Espinal, Santiago",ground_ball,2,91.3,-44,93,2105,0.077,0.069,2
+SL,5/18/2022,89.8,"Chapman, Matt",line_drive,336,110.1,14,88.8,2348,0.763,0.842,6
+SL,5/18/2022,82.6,"Hernández, Teoscar",ground_ball,92,88.3,7,82.9,2591,0.469,0.444,4
+SL,5/18/2022,83.3,"Jansen, Danny",popup,212,68,44,84.1,2100,0.337,0.334,3
+SL,5/18/2022,88.8,"Tapia, Raimel",popup,107,91.2,69,88.2,2335,0.014,0.016,3
+FF,5/17/2022,88.7,"Gurriel Jr., Lourdes",fly_ball,277,99.2,51,88.3,2380,0.006,0.007,3
+CH,5/16/2022,87.2,"Guerrero Jr., Vladimir",ground_ball,9,97.2,-14,86,1621,0.194,0.176,2
+SL,5/16/2022,80.7,"Espinal, Santiago",ground_ball,49,84.2,1,80.4,2437,0.26,0.247,2
+CH,5/16/2022,85,"Bichette, Bo",fly_ball,203,69.4,28,83.9,1680,0.92,0.876,4
+SI,5/16/2022,91.2,"Kirk, Alejandro",line_drive,193,107.9,8,91.8,1959,0.729,0.711,4
+SI,5/15/2022,96.3,"Hernández, Teoscar",ground_ball,6,98.8,-19,96.3,2152,0.117,0.105,2
+SI,5/14/2022,89.2,"Jansen, Danny",fly_ball,368,97.9,30,89,2013,0.349,0.621,6
+SL,5/14/2022,78.6,"Gurriel Jr., Lourdes",line_drive,219,76.1,22,78.5,2174,0.92,0.884,4
+SI,5/14/2022,89.3,"Collins, Zack",ground_ball,3,87.8,-27,89.4,1996,0.051,0.046,2
+SI,5/13/2022,91.1,"Tapia, Raimel",line_drive,188,77.2,15,89.6,2270,0.686,0.635,4
+CH,5/13/2022,85.9,"Espinal, Santiago",line_drive,144,91.4,7,84.3,1928,0.509,0.475,4
+SI,5/13/2022,96.6,"Guerrero Jr., Vladimir",ground_ball,4,95.8,-31,96.5,2394,0.12,0.125,2
+SI,5/11/2022,95.6,"Chapman, Matt",ground_ball,40,71.2,1,95.3,2236,0.12,0.109,2
+FF,5/11/2022,98.8,"Guerrero Jr., Vladimir",popup,155,61.9,54,100,2437,0.057,0.051,3
+SL,5/11/2022,80.4,"Bichette, Bo",line_drive,190,73.7,19,80.2,2769,0.903,0.843,4
+FF,5/11/2022,97.5,"Springer, George",line_drive,286,87,26,99.2,2302,0.089,0.085,3
+SI,5/11/2022,97.2,"Guerrero Jr., Vladimir",ground_ball,13,88.4,-13,96.5,2234,0.129,0.116,2
+SI,5/10/2022,96.8,"Bichette, Bo",ground_ball,86,85.3,6,97.3,2298,0.403,0.38,4
+CH,5/10/2022,86.7,"Bichette, Bo",fly_ball,306,90.1,28,84.9,2064,0.094,0.116,3
+CU,5/10/2022,84.5,"Kirk, Alejandro",fly_ball,283,82.1,35,85.2,2383,0.029,0.038,3
+FF,5/10/2022,94.9,"Gurriel Jr., Lourdes",ground_ball,203,101.3,12,95.7,2294,0.917,0.903,4
+FF,5/8/2022,91.4,"Springer, George",line_drive,263,84,20,91.8,2271,0.683,0.664,4
+CH,5/8/2022,76.1,"Tapia, Raimel",fly_ball,325,91.1,31,75,2037,0.057,0.072,3
+FF,5/7/2022,95.4,"Tapia, Raimel",ground_ball,14,98.1,-11,95,2331,0.22,0.2,2
+SL,5/7/2022,84,"Kirk, Alejandro",ground_ball,1,85.1,-36,84.1,2208,0.066,0.059,2
+FF,5/7/2022,94.6,"Kirk, Alejandro",ground_ball,36,94.1,0,95.2,2317,0.394,0.407,2
+SL,5/5/2022,79.8,"Gurriel Jr., Lourdes",ground_ball,36,72,1,79.7,2876,0.126,0.121,2
+SL,5/5/2022,81.7,"Bichette, Bo",popup,152,88.9,62,82.2,2413,0.003,0.003,3
+FC,5/5/2022,91,"Kirk, Alejandro",ground_ball,16,103.3,-6,90.6,2311,0.323,0.301,2
+FS,5/5/2022,88.1,"Tapia, Raimel",ground_ball,6,97.8,-11,88.5,1449,0.22,0.2,2
+CH,5/3/2022,93.8,"Tapia, Raimel",line_drive,173,96.3,11,94.3,1851,0.786,0.745,4
+SI,5/2/2022,98.5,"Heineman, Tyler",ground_ball,88,89,5,98.2,2247,0.423,0.403,4
+SI,5/2/2022,99.2,"Tapia, Raimel",line_drive,286,87.6,26,99.3,2181,0.109,0.129,3
+SL,5/2/2022,84.8,"Chapman, Matt",ground_ball,67,104.6,2,83.7,2612,0.503,0.472,4
+SI,5/2/2022,94.6,"Gurriel Jr., Lourdes",ground_ball,5,96.8,-19,94,2270,0.12,0.108,2
+SL,5/2/2022,85.5,"Espinal, Santiago",popup,90,84.1,73,85.3,2836,0.006,0.005,3
+SI,5/2/2022,94.1,"Springer, George",ground_ball,100,96.2,5,93.1,2224,0.509,0.495,4
+SI,5/1/2022,92.9,"Kirk, Alejandro",ground_ball,37,78.2,-1,91.5,2129,0.137,0.123,2
+SI,5/1/2022,93.7,"Chapman, Matt",ground_ball,8,79,-15,92.8,2267,0.069,0.062,2
+CU,5/1/2022,75,"Tapia, Raimel",ground_ball,54,88.9,2,75.2,3074,0.277,0.249,2
+FF,5/1/2022,89.8,"Espinal, Santiago",line_drive,188,94.6,12,91.1,2462,0.894,0.873,4
+SL,4/30/2022,80.2,"Springer, George",popup,205,76.7,51,80.7,2434,0.083,0.091,3
+FS,4/30/2022,87.1,"Tapia, Raimel",ground_ball,5,81.8,-24,86.7,781,0.046,0.041,2
+SL,4/30/2022,79.6,"Espinal, Santiago",popup,43,63.9,84,79.6,2393,0.006,0.006,3
+FF,4/29/2022,94.6,"Tapia, Raimel",line_drive,233,91.7,13,93.2,2515,0.911,0.879,4
+SL,4/29/2022,80.7,"Espinal, Santiago",popup,173,67.1,53,80.8,2669,0.086,0.077,3
+FC,4/29/2022,83,"Chapman, Matt",fly_ball,418,110.2,31,84.1,2662,0.937,1.95,6
+FS,4/27/2022,90.3,"Springer, George",line_drive,320,104,15,90,1370,0.62,0.651,5
+SL,4/26/2022,81.6,"Zimmer, Bradley",ground_ball,8,93.8,-18,80.6,2479,0.134,0.123,2
+FF,4/26/2022,96.1,"Springer, George",fly_ball,423,110,24,95.3,2238,0.986,1.992,6
+FF,4/26/2022,93.7,"Katoh, Gosuke",ground_ball,0,46.8,-86,93.1,2203,0.151,0.136,1
+FF,4/26/2022,96.9,"Chapman, Matt",fly_ball,390,100.4,28,96.7,2507,0.571,1.053,6
+SL,4/26/2022,90.1,"Tapia, Raimel",fly_ball,296,87.3,28,90,2604,0.08,0.1,3
+FF,4/26/2022,96.1,"Springer, George",fly_ball,277,100,50,96.4,2369,0.011,0.016,3
+SI,4/26/2022,95.3,"Espinal, Santiago",line_drive,289,87.3,26,94.4,2163,0.089,0.085,3
+FC,4/25/2022,92.3,"Gurriel Jr., Lourdes",ground_ball,56,75.6,3,92.9,2389,0.189,0.173,2
+SI,4/25/2022,94.8,"Zimmer, Bradley",ground_ball,2,36,-52,94.2,2307,0.249,0.238,1
+SI,4/25/2022,91.5,"Bichette, Bo",fly_ball,344,103.4,31,89.4,1731,0.643,1.272,6
+CU,4/25/2022,81.2,"Springer, George",line_drive,181,89.3,10,79.4,2459,0.591,0.534,4
+SL,4/24/2022,89.2,"Chapman, Matt",popup,155,90.7,65,89.7,2886,0.009,0.008,3
+SL,4/24/2022,88.9,"Gurriel Jr., Lourdes",line_drive,247,106,12,89.3,2650,0.874,0.898,4
+FF,4/24/2022,95.7,"Tapia, Raimel",ground_ball,12,80.3,-10,95.6,2080,0.109,0.105,2
+SI,4/24/2022,95.8,"Chapman, Matt",ground_ball,9,86.9,-10,95.2,2079,0.149,0.143,2
+FF,4/24/2022,92.1,"Espinal, Santiago",fly_ball,,102.3,23,,2393,0.651,1.012,6
+CH,4/24/2022,89.8,"Guerrero Jr., Vladimir",ground_ball,38,109.9,-2,89,1938,0.474,0.432,4
+SL,4/24/2022,86.2,"Springer, George",fly_ball,219,86.2,53,87.1,2138,0.011,0.01,3
+FF,4/24/2022,92.8,"Tapia, Raimel",line_drive,278,98.2,16,93.3,2426,0.646,0.677,4
+SL,4/24/2022,86.9,"Kirk, Alejandro",line_drive,150,78.7,12,88.3,2306,0.48,0.432,4
+SL,4/23/2022,86,"Guerrero Jr., Vladimir",ground_ball,9,97.5,-19,85.5,2547,0.12,0.108,2
+FF,4/23/2022,93.3,"Espinal, Santiago",fly_ball,300,96.1,45,93,2412,0.011,0.018,3
+FS,4/23/2022,85.2,"Tapia, Raimel",fly_ball,289,87.1,38,84.7,1328,0.011,0.015,3
+FS,4/23/2022,84.6,"Kirk, Alejandro",fly_ball,343,93.2,32,84.4,1080,0.091,0.162,3
+FS,4/22/2022,85.6,"Kirk, Alejandro",ground_ball,3,97.5,-20,86.7,1004,0.12,0.108,2
+FF,4/22/2022,93.7,"Chapman, Matt",line_drive,345,106.9,15,93.8,2423,0.637,0.702,5
+FF,4/22/2022,94.3,"Collins, Zack",fly_ball,232,98.5,62,93.8,2468,0.017,0.023,3
+SL,4/22/2022,85.1,"Gurriel Jr., Lourdes",popup,116,83.1,71,84.8,1982,0.009,0.009,3
+FS,4/21/2022,88.3,"Chapman, Matt",ground_ball,5,72.2,-19,88.5,1057,0.049,0.044,2
+FS,4/21/2022,91.1,"Guerrero Jr., Vladimir",fly_ball,353,97.9,32,90.9,1203,0.297,0.579,5
+FF,4/21/2022,94.3,"Bichette, Bo",ground_ball,132,101.5,7,94.2,1956,0.68,0.64,4
+SI,4/20/2022,90.3,"Gurriel Jr., Lourdes",fly_ball,296,83.6,30,88.2,1731,0.063,0.075,3
+KC,4/20/2022,81.5,"Kirk, Alejandro",ground_ball,2,97.5,-38,81.7,2026,0.1,0.09,2
+FF,4/20/2022,92.4,"Espinal, Santiago",fly_ball,329,96,29,93.4,2196,0.214,0.347,5
+FF,4/20/2022,94,"Chapman, Matt",popup,106,85.7,71,94.3,2179,0.006,0.005,3
+SL,4/19/2022,81,"Chapman, Matt",popup,206,80.4,53,80.7,2719,0.046,0.046,3
+SI,4/17/2022,92,"Biggio, Cavan",popup,151,90.4,67,90,2174,0.014,0.018,3
+SI,4/17/2022,92.4,"Kirk, Alejandro",fly_ball,304,88.1,37,90.4,2087,0.011,0.012,3
+SL,4/15/2022,84.1,"Gurriel Jr., Lourdes",line_drive,306,105.4,18,81.4,2551,0.506,0.604,5
+SL,4/15/2022,85.5,"Bichette, Bo",fly_ball,365,101.5,23,83.4,2640,0.651,1.012,6
+SI,4/15/2022,86.5,"Espinal, Santiago",ground_ball,1,48.6,-67,86.5,2088,0.217,0.195,1
+SL,4/15/2022,83.1,"Springer, George",fly_ball,326,90.6,26,82,2182,0.137,0.173,3
+SL,4/14/2022,82,"Bichette, Bo",line_drive,166,65.1,20,82,2792,0.617,0.555,4
+CU,4/14/2022,85.4,"Kirk, Alejandro",ground_ball,14,93.4,-4,85.2,2536,0.243,0.229,2
+SI,4/14/2022,95.7,"Bichette, Bo",ground_ball,8,76.2,-15,95.4,2324,0.06,0.054,2
+FF,4/14/2022,93.1,"Tapia, Raimel",line_drive,79,104.5,3,93.4,2273,0.517,0.471,4
+FF,4/13/2022,94.2,"Espinal, Santiago",ground_ball,27,79.6,-4,94.6,2398,0.14,0.134,2
+SI,4/13/2022,95.7,"Tapia, Raimel",ground_ball,11,62.1,-13,93.5,2207,0.06,0.054,2
+FF,4/13/2022,94.7,"Chapman, Matt",popup,151,97.2,64,94.9,2380,0.017,0.021,3
+CH,4/13/2022,88,"Chapman, Matt",ground_ball,64,103.7,1,87.4,2270,0.466,0.42,4
+CU,4/13/2022,87.3,"Bichette, Bo",fly_ball,213,85.5,50,87.9,2495,0.006,0.005,3
+SI,4/13/2022,94.4,"Heineman, Tyler",ground_ball,21,17.3,35,93.5,2043,0.171,0.154,1
+SI,4/13/2022,97.1,"Springer, George",line_drive,214,96.6,10,97.3,2390,0.703,0.643,4
+SL,4/12/2022,86.6,"Chapman, Matt",ground_ball,75,102.4,3,87.9,2827,0.56,0.546,4
+SI,4/12/2022,97.6,"Guerrero Jr., Vladimir",ground_ball,4,80.5,-27,98,2260,0.049,0.047,2
+SI,4/12/2022,97.2,"Bichette, Bo",line_drive,262,79.3,24,97.6,2300,0.611,0.601,4
+SL,4/11/2022,80,"Kirk, Alejandro",fly_ball,242,80.5,45,80.1,2707,0.029,0.035,3
+SI,4/11/2022,93.6,"Gurriel Jr., Lourdes",line_drive,256,105.4,14,93.5,2319,0.714,0.752,5
+SI,4/11/2022,94.9,"Springer, George",line_drive,325,105.9,16,94.6,2480,0.571,0.641,5
+CH,4/11/2022,82.8,"Bichette, Bo",ground_ball,104,70.9,9,82.9,1997,0.226,0.203,2
+SL,4/11/2022,77.5,"Springer, George",popup,161,91.4,62,77.5,2317,0.003,0.003,3
+SL,4/10/2022,87.6,"Jansen, Danny",fly_ball,322,89.2,35,87.5,2269,0.026,0.032,3
+FC,4/10/2022,86.7,"Bichette, Bo",ground_ball,9,74.5,-15,86.7,2479,0.057,0.053,2
+SL,4/9/2022,82.4,"Chapman, Matt",ground_ball,4,93.1,-28,82.3,1764,0.094,0.097,2
+SL,4/9/2022,81.3,"Gurriel Jr., Lourdes",popup,165,88.9,63,81.2,1871,0.006,0.005,3
+FC,4/9/2022,91.4,"Springer, George",ground_ball,73,103.5,2,91.3,2623,0.474,0.427,4
+FF,4/9/2022,97,"Espinal, Santiago",fly_ball,338,91.4,26,96.5,2654,0.137,0.173,3
+FC,4/9/2022,91.6,"Tapia, Raimel",ground_ball,5,32.6,-30,91.6,2576,0.257,0.254,1
+SI,4/8/2022,97,"Kirk, Alejandro",fly_ball,338,88.7,33,95.9,2406,0.023,0.021,3
+SI,4/8/2022,95.7,"Gurriel Jr., Lourdes",line_drive,292,86.1,26,95,2428,0.1,0.098,3
+SI,4/8/2022,96.7,"Guerrero Jr., Vladimir",line_drive,378,105.9,20,95.9,2423,0.694,0.994,6
